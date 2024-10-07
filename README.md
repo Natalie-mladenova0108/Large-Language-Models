@@ -1,4 +1,4 @@
-# Poetry fusion -- the generation of new poems based on a selection of authors
+# Poetry Fusion -- The Generation of New Poems Based on a Selection of Authors
 
 Natalie Mladenova - n.mladenova@student.rug.nl   
 Karolina Kozikowska - k.kozikowska@student.rug.nl  
